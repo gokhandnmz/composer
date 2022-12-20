@@ -1,0 +1,11 @@
+{
+    "name": "laravel/lowermegabyte",
+    "description": "package that you can lower your image sizes",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LowerMegabyte\\" : "src"
+        }
+    }
+}
