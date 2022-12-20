@@ -2,7 +2,9 @@
     "name": "rethasoft/lowermegabyte",
     "description": "package that you can lower your image sizes",
     "license": "MIT",
-    "require": {},
+    "require": {
+        "php" : "^8.2.0"
+    },
     "autoload": {
         "psr-4": {
             "LowerMegabyte\\" : "src"
