@@ -1,5 +1,5 @@
 {
-    "name": "laravel/lowermegabyte",
+    "name": "rethasoft/lowermegabyte",
     "description": "package that you can lower your image sizes",
     "license": "MIT",
     "require": {},
